@@ -2,7 +2,7 @@
 public class LunarLander {
 	
 	public static void main (String[] args){
-		GameController gc = new GameController();	//break code
+		GameController gc = new GameController();
 		gc.run();
 	}
 	

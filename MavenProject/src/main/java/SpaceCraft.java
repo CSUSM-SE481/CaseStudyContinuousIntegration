@@ -24,7 +24,7 @@ public class SpaceCraft {
     }
     
     public void setBurnRate(int br){
-//    	burnRate = br; // break test here
+    	burnRate = br; // break test here
     }
     
     public void calcNewValues() throws Exception{
